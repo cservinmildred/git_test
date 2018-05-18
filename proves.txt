@@ -6,3 +6,4 @@ $ git commit
 # Esta en un párrafo creado desde la consola
 # Esta en un párrafo creado desde la consola dentro del brach1
 # Comprobando el merge
+# Comprobando que fue funciona el merge
