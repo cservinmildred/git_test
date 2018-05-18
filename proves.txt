@@ -12,3 +12,4 @@ $ git commit
 # Comprobando el merge
 # Comprobando que fue funciona el merge
 >>>>>>> brach1
+# Comprobando que fue funciona el merge en el master README.md
